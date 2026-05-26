@@ -55,7 +55,7 @@ With a Silhouette Score of **0.5547** and the lowest Davies-Bouldin Index of **0
 
 > **Note:** Replace the path below with your actual screenshot file once available.
 
-![Clustering Dashboard](./screenshots/clustering_dashboard.png)
+![Clustering Dashboard](week6_dashboard.png)
 
 *Figure: Scatter plot of the five K-Means clusters (Annual Income vs. Spending Score), colour-coded by segment, with centroids marked.*
 
